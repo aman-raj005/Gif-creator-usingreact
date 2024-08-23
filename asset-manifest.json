@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gif-creator-usingreact/static/css/main.1fecbada.css",
+    "main.js": "/Gif-creator-usingreact/static/js/main.1736b819.js",
+    "index.html": "/Gif-creator-usingreact/index.html",
+    "main.1fecbada.css.map": "/Gif-creator-usingreact/static/css/main.1fecbada.css.map",
+    "main.1736b819.js.map": "/Gif-creator-usingreact/static/js/main.1736b819.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fecbada.css",
+    "static/js/main.1736b819.js"
+  ]
+}
